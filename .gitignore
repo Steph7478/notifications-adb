@@ -1,0 +1,36 @@
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db
+ntuser.dat
+desktop.ini
+
+# --- Editores e IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.settings/
+
+# --- Logs e Dados Temporários ---
+*.log
+logs/
+*.tmp
+*.temp
+.cache/
+
+# --- Arquivos de Ambiente (Segurança!) ---
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# --- Dependências (Exemplos comuns) ---
+node_modules/
+__pycache__/
+*.py[cod]
+vendor/
+target/
+bin/
+obj/
